@@ -6,7 +6,21 @@
 
 <a href="https://docs.google.com/presentation/d/1COH0Uw0WESF4N35YohjlGY8OaNd19gYZeFL5KIRHHX8/edit?usp=sharing">Slides</a>
 
-## Weekly Lab Reports
+## Project Ideas Video 
+[I am AI](https://www.youtube.com/playlist?list=PLWmIsQcAzRkpRUWZLnqXFTuybUJ06bCJh)
+
+## Tutorial Videos
+
+[How to Plot a Linear Function](https://youtube.com/shorts/Z7wUkSXD2zI?feature=share)
+
+[How to Plot a Sin Wave](https://youtube.com/shorts/AZkgnf8pvHc?feature=share)
+
+[How to Resize Images](https://youtube.com/shorts/_io-NzBaSpU?feature=share)
+
+[How to Hide an Image in Python](https://youtube.com/shorts/0yJWcarSRB4?feature=share)
+
+
+## Lab Reports
 
 [Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
 
@@ -14,12 +28,17 @@
 
 [Lab #3](https://colab.research.google.com/drive/1hoXOTwh-hGpkf4mciIRRm2gyoWRbi38M?usp=sharing)
 
+[Lab #4](https://colab.research.google.com/drive/1SyGqBZTObglE00w2oNYpGPPX6oa9LfiM?usp=sharing)
+
+[Galton Board](https://colab.research.google.com/drive/1SLl_EQjhfkzDfYfPxIuolVupBo81yTSw?usp=sharing)
+
+[Lab #5](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
+
+[Lab #6](https://colab.research.google.com/drive/1Tlt-6YHoDWSHr09QgAw-a4N0C514hsfv?usp=sharing)
 
 <!--
-[Lab #4](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
 
-[Lab #5](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
-
+[Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
 -->
 
 ## Midterm Project

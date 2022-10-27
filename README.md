@@ -36,6 +36,14 @@
 
 [Lab #6](https://colab.research.google.com/drive/1Tlt-6YHoDWSHr09QgAw-a4N0C514hsfv?usp=sharing)
 
+[Linear Fit](https://colab.research.google.com/drive/1YnY_v49JTauXvGrPWN5hbEGCDJgbZHkj?usp=sharing)
+
+[Midterm](https://colab.research.google.com/drive/1DkKEPTBXCTpGxFZTETEvXitXVyDovAl5)
+
+[Class Midterm](https://colab.research.google.com/drive/1xepx0C4c8-Er-rbfbQWelSSAk7JMARph?usp=sharing)
+
+[Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
+
 <!--
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
